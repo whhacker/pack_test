@@ -1,0 +1,17 @@
+{
+    "name": "whhacker/pack_test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "whhacker",
+            "email": "4610631@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pack\\Test\\": "src/"
+        }
+    },
+    "require": {}
+}
